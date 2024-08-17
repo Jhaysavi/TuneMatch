@@ -1,0 +1,62 @@
+.logoImg{
+    width: 314.65px;
+
+    margin: 4rem 0 2rem 0;
+}
+
+.title{
+    color: #ffffff;
+
+    font-size: 24px;
+    font-weight: 500;
+
+    margin-bottom: 3rem;
+
+    text-align: center;
+    text-shadow: 5px 5px 10px #F0E7E7;
+}
+
+/* Buttons */
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    margin: 0 2rem 0 2rem;
+}
+
+.btnListners{
+    background-color: #00C2F9;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px #00C2F9;
+    border: none;
+
+    margin-bottom: 2rem;
+    padding: 0.8rem;
+}
+
+.btnListners a{
+    color: #000000;
+
+    font-size: 18px;
+
+    text-decoration: none;
+}
+
+.btnArtist{
+    background-color: #A07EE7;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px #A07EE7;
+    border: none;
+
+    margin-bottom: 2rem;
+    padding: 0.8rem;
+}
+
+.btnArtist a{
+    color: #000000;
+
+    font-size: 18px;
+
+    text-decoration: none;
+}

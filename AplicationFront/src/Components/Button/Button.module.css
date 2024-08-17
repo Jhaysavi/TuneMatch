@@ -1,0 +1,11 @@
+.btn{
+    background-color: #00AC8A;
+    border: none;
+    border-radius: 20px;
+
+    color: #ffffff;
+
+    padding: 1rem;
+
+    text-align: center;
+}
