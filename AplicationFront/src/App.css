@@ -1,0 +1,8 @@
+ :root {
+   --deep-grey:#2A282D;
+
+ }
+
+ body {
+  background-color: var(--deep-grey);
+ }
