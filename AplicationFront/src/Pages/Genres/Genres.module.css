@@ -1,0 +1,26 @@
+.main{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    margin-bottom: 2rem;
+}
+
+.title {
+    color: #ffffff;
+
+    font-size: 32px;
+    font-weight: 400;
+
+    margin: 2rem;
+
+    text-align: center;
+}
+
+
+
+
