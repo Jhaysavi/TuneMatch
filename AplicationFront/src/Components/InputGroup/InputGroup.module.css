@@ -1,0 +1,26 @@
+.inputGroup{
+    color: #ffffff;
+
+    margin-bottom: 2rem;
+}
+
+.label{
+    display: block;
+
+    font-weight: 600;
+}
+
+.input {
+    background-color: rgba(209, 206, 213, 0.6); 
+    border-radius: 10px;
+    border: none;
+    box-shadow: 4px 0 0 0 rgba(0, 0, 0, 0.3); 
+
+    padding: 0.8rem;
+}
+
+.input:focus { 
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+ }
